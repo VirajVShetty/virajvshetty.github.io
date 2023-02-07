@@ -299,7 +299,9 @@ template {
 	display: none;
 }
 
-
+* {
+  font-family: "Inter", sans-serif;
+}
 
 /* ===================================================================
  * # basic/base setup styles
