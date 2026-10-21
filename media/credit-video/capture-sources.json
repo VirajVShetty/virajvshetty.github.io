@@ -1,0 +1,103 @@
+{
+  "video": "https://www.youtube.com/watch?v=3HmcbXrCRhY",
+  "storyboard_spec": "https://i.ytimg.com/sb/3HmcbXrCRhY/storyboard3_L$L/$N.jpg?sqp=-oaymwENSDfyq4qpAwVwAcABBqLzl_8DBgjygrLVBg==|48#27#100#10#10#0#default#rs$AOn4CLCwtRv9Q03_cQqIrt_1csKsepaGfw|80#45#107#10#10#5000#M$M#rs$AOn4CLDe0fqg7o02aP9S0unxJX_y6mHqXw|160#90#107#5#5#5000#M$M#rs$AOn4CLDe82Fr4gJWbZtuA5u7CnemTBZQCQ|320#180#107#3#3#5000#M$M#rs$AOn4CLDk-834mzkiuJvS_fL1BhsUj6zB3A",
+  "assets": [
+    {
+      "path": "/Users/virajshetty/HermesResearch/Portfolio/media/credit-video/storyboard-sheet-00.jpg",
+      "url": "https://i.ytimg.com/sb/3HmcbXrCRhY/storyboard3_L3/M0.jpg?sqp=-oaymwENSDfyq4qpAwVwAcABBqLzl_8DBgjygrLVBg==&sigh=rs$AOn4CLDk-834mzkiuJvS_fL1BhsUj6zB3A",
+      "sheet": 0
+    },
+    {
+      "path": "/Users/virajshetty/HermesResearch/Portfolio/media/credit-video/storyboard-sheet-03.jpg",
+      "url": "https://i.ytimg.com/sb/3HmcbXrCRhY/storyboard3_L3/M3.jpg?sqp=-oaymwENSDfyq4qpAwVwAcABBqLzl_8DBgjygrLVBg==&sigh=rs$AOn4CLDk-834mzkiuJvS_fL1BhsUj6zB3A",
+      "sheet": 3
+    },
+    {
+      "path": "/Users/virajshetty/HermesResearch/Portfolio/media/credit-video/storyboard-sheet-06.jpg",
+      "url": "https://i.ytimg.com/sb/3HmcbXrCRhY/storyboard3_L3/M6.jpg?sqp=-oaymwENSDfyq4qpAwVwAcABBqLzl_8DBgjygrLVBg==&sigh=rs$AOn4CLDk-834mzkiuJvS_fL1BhsUj6zB3A",
+      "sheet": 6
+    },
+    {
+      "path": "/Users/virajshetty/HermesResearch/Portfolio/media/credit-video/storyboard-sheet-09.jpg",
+      "url": "https://i.ytimg.com/sb/3HmcbXrCRhY/storyboard3_L3/M9.jpg?sqp=-oaymwENSDfyq4qpAwVwAcABBqLzl_8DBgjygrLVBg==&sigh=rs$AOn4CLDk-834mzkiuJvS_fL1BhsUj6zB3A",
+      "sheet": 9
+    },
+    {
+      "path": "/Users/virajshetty/HermesResearch/Portfolio/media/credit-video/storyboard-sheet-11.jpg",
+      "url": "https://i.ytimg.com/sb/3HmcbXrCRhY/storyboard3_L3/M11.jpg?sqp=-oaymwENSDfyq4qpAwVwAcABBqLzl_8DBgjygrLVBg==&sigh=rs$AOn4CLDk-834mzkiuJvS_fL1BhsUj6zB3A",
+      "sheet": 11
+    },
+    {
+      "path": "/Users/virajshetty/HermesResearch/Portfolio/media/credit-video/maxresdefault.jpg",
+      "url": "https://i.ytimg.com/vi/3HmcbXrCRhY/maxresdefault.jpg",
+      "kind": "official-thumbnail"
+    },
+    {
+      "path": "/Users/virajshetty/HermesResearch/Portfolio/media/credit-video/hqdefault.jpg",
+      "url": "https://i.ytimg.com/vi/3HmcbXrCRhY/hqdefault.jpg",
+      "kind": "official-thumbnail"
+    },
+    {
+      "path": "/Users/virajshetty/HermesResearch/Portfolio/media/credit-video/credit-risk-020s-definitions.jpg",
+      "url": "https://i.ytimg.com/sb/3HmcbXrCRhY/storyboard3_L3/M0.jpg?sqp=-oaymwENSDfyq4qpAwVwAcABBqLzl_8DBgjygrLVBg==&sigh=rs$AOn4CLDk-834mzkiuJvS_fL1BhsUj6zB3A",
+      "kind": "actual-youtube-storyboard-tile",
+      "timestamp_seconds": 20,
+      "timestamp_accuracy": "YouTube storyboard grid, 5-second interval",
+      "size": [
+        320,
+        180
+      ],
+      "sheet_index": 0,
+      "tile_index": 4
+    },
+    {
+      "path": "/Users/virajshetty/HermesResearch/Portfolio/media/credit-video/credit-risk-140s-executive-overview.jpg",
+      "url": "https://i.ytimg.com/sb/3HmcbXrCRhY/storyboard3_L3/M3.jpg?sqp=-oaymwENSDfyq4qpAwVwAcABBqLzl_8DBgjygrLVBg==&sigh=rs$AOn4CLDk-834mzkiuJvS_fL1BhsUj6zB3A",
+      "kind": "actual-youtube-storyboard-tile",
+      "timestamp_seconds": 140,
+      "timestamp_accuracy": "YouTube storyboard grid, 5-second interval",
+      "size": [
+        320,
+        180
+      ],
+      "sheet_index": 3,
+      "tile_index": 1
+    },
+    {
+      "path": "/Users/virajshetty/HermesResearch/Portfolio/media/credit-video/credit-risk-300s-portfolio.jpg",
+      "url": "https://i.ytimg.com/sb/3HmcbXrCRhY/storyboard3_L3/M6.jpg?sqp=-oaymwENSDfyq4qpAwVwAcABBqLzl_8DBgjygrLVBg==&sigh=rs$AOn4CLDk-834mzkiuJvS_fL1BhsUj6zB3A",
+      "kind": "actual-youtube-storyboard-tile",
+      "timestamp_seconds": 300,
+      "timestamp_accuracy": "YouTube storyboard grid, 5-second interval",
+      "size": [
+        320,
+        180
+      ],
+      "sheet_index": 6,
+      "tile_index": 6
+    },
+    {
+      "path": "/Users/virajshetty/HermesResearch/Portfolio/media/credit-video/credit-risk-405s-delinquency.jpg",
+      "url": "https://i.ytimg.com/sb/3HmcbXrCRhY/storyboard3_L3/M9.jpg?sqp=-oaymwENSDfyq4qpAwVwAcABBqLzl_8DBgjygrLVBg==&sigh=rs$AOn4CLDk-834mzkiuJvS_fL1BhsUj6zB3A",
+      "kind": "actual-youtube-storyboard-tile",
+      "timestamp_seconds": 405,
+      "timestamp_accuracy": "YouTube storyboard grid, 5-second interval",
+      "size": [
+        320,
+        180
+      ],
+      "sheet_index": 9,
+      "tile_index": 0
+    }
+  ],
+  "notes": [
+    "Frames are genuine YouTube storyboard crops, not fabricated report renders.",
+    "Video title verified from live YouTube player response: Credit Risk Analytics Reporting | Viraj Shetty.",
+    "No portfolio HTML changed."
+  ],
+  "blockers": [
+    "YouTube player remained unstarted: player state -1, videoWidth 0, readyState 0 despite user-style and JS playback attempts. Therefore no full-resolution temporal video capture or genuine-motion MP4/GIF was produced.",
+    "Local terminal python3 hit an Xcode license gate; existing browser helper Python successfully performed all downloads/crops without installing or changing Hermes."
+  ],
+  "verified_preview_count": 4
+}

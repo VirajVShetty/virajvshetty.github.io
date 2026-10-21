@@ -1,0 +1,42 @@
+{
+  "repository": "https://github.com/VirajVShetty/FinancialDataAnalytics",
+  "commit": "927685e6b3140fc6bdc80f5aa0c2a2d35058129f",
+  "app_url": "https://financial-data-analytics-viraj.streamlit.app/",
+  "description": "An interactive Streamlit dashboard and Python notebook analyzing Federal Reserve G.19 consumer credit, comparing revolving and nonrevolving balances, growth, composition, volatility, and recession-era behavior.",
+  "sources_read": [
+    "https://raw.githubusercontent.com/VirajVShetty/FinancialDataAnalytics/927685e6b3140fc6bdc80f5aa0c2a2d35058129f/README.md",
+    "https://raw.githubusercontent.com/VirajVShetty/FinancialDataAnalytics/927685e6b3140fc6bdc80f5aa0c2a2d35058129f/app.py",
+    "https://raw.githubusercontent.com/VirajVShetty/FinancialDataAnalytics/927685e6b3140fc6bdc80f5aa0c2a2d35058129f/g19.py"
+  ],
+  "assets": [
+    {
+      "path": "/Users/virajshetty/HermesResearch/Portfolio/media/financial/chart_01_levels.png",
+      "source_url": "https://raw.githubusercontent.com/VirajVShetty/FinancialDataAnalytics/927685e6b3140fc6bdc80f5aa0c2a2d35058129f/charts/chart_01_levels.png",
+      "provenance": "Unmodified PNG exported by project notebook and committed under charts/; not a live app screenshot.",
+      "bytes": 145183,
+      "sha256": "aa7c0e7c1329edb3f635abdeb24e95d3e54fb6de6d4e05ee99365afd860f8b34"
+    },
+    {
+      "path": "/Users/virajshetty/HermesResearch/Portfolio/media/financial/chart_02_composition.png",
+      "source_url": "https://raw.githubusercontent.com/VirajVShetty/FinancialDataAnalytics/927685e6b3140fc6bdc80f5aa0c2a2d35058129f/charts/chart_02_composition.png",
+      "provenance": "Unmodified PNG exported by project notebook and committed under charts/; not a live app screenshot.",
+      "bytes": 108895,
+      "sha256": "32538527be8c862ddb359ba569d7b71aa71c4f433f4b8acc83f111ab0242471e"
+    },
+    {
+      "path": "/Users/virajshetty/HermesResearch/Portfolio/media/financial/chart_03_growth.png",
+      "source_url": "https://raw.githubusercontent.com/VirajVShetty/FinancialDataAnalytics/927685e6b3140fc6bdc80f5aa0c2a2d35058129f/charts/chart_03_growth.png",
+      "provenance": "Unmodified PNG exported by project notebook and committed under charts/; not a live app screenshot.",
+      "bytes": 435977,
+      "sha256": "e827d2bea4cb3ff3552cc39472837e374c74df8e4a684795b88c4abc14c5bf7c"
+    },
+    {
+      "path": "/Users/virajshetty/HermesResearch/Portfolio/media/financial/chart_07_components.png",
+      "source_url": "https://raw.githubusercontent.com/VirajVShetty/FinancialDataAnalytics/927685e6b3140fc6bdc80f5aa0c2a2d35058129f/charts/chart_07_components.png",
+      "provenance": "Unmodified PNG exported by project notebook and committed under charts/; not a live app screenshot.",
+      "bytes": 130880,
+      "sha256": "1555a6373f14495c03476977f35f404a10f15e0618945cb43f06a5f2994c2338"
+    }
+  ],
+  "visual_review": "All four PNGs visually inspected; white-background exported charts with legible titles, axes, legends, and recession shading. Keep full image visible to avoid cropping chart labels."
+}
